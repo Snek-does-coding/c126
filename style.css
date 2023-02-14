@@ -1,0 +1,14 @@
+body {
+    background-color: cyan;
+}
+
+.heading{
+    background-color:lightgreen;
+    color:white;
+}
+
+#camera{
+    width:400px;
+    height:300px;
+    border: 2px dotted;
+}
